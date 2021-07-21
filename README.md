@@ -3,6 +3,9 @@
 
 This is a simple Pytorch implementation of GridNet, presented in Ref. 1. This implementation includes the modified version proposed in Ref. 2 (recommended for image-to-image translation).
 
+![fig](https://user-images.githubusercontent.com/37669469/126449059-e826566e-7fb9-4c0e-b325-6a9038dc0c69.jpg)
+
+
 References:
 * Ref. 1: Residual Conv-Deconv Grid Network for Semantic Segmentation, In BMVC, 2017.
 * Ref. 2: Context-aware Synthesis for Video Frame Interpolation, In CVPR 2018.
